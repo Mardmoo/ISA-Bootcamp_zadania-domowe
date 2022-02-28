@@ -10,4 +10,4 @@ def trojkat(a: int, b: int):
         raise TypeError('Nie wpisałeś liczby. Podaj ponownie długość boku trójkąta.')
 
 
-print(trojkat('abc', 4))
+print(trojkat(2, 4))
